@@ -4,6 +4,11 @@
 AI-powered Resume Analysis and Career Planning Dashboard built with Streamlit and Google Gemini.
 
 ---
+## 📌 Project Live Demo
+[GenAI Career Mentor](https://genai-career-mentor-ixmp6po4n4yykubzxamfvz.streamlit.app/)
+
+---
+---
 
 ## 📌 Project Overview
 GenAI Career Mentor analyzes resumes using Generative AI and provides actionable insights such as ATS score, skill gaps, and interview preparation guidance.
