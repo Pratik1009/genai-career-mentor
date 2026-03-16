@@ -2,6 +2,10 @@
 
 AI-powered Resume Analysis and Career Planning Tool built with Streamlit and Google Gemini.
 
+## Live Demo
+[[( genai-career-mentor)](https://genai-career-mentor-ixmp6po4n4yykubzxamfvz.streamlit.app/)]
+
+
 ## Features
 - ATS Resume Score
 - Job Description Match %
@@ -18,10 +22,6 @@ Google Gemini AI
 PyPDF2
 FPDF
 
-## Live Demo
-(Coming Soon)
-
 ## Run Locally
-
 pip install -r requirements.txt
 streamlit run app.py
